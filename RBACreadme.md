@@ -40,6 +40,8 @@ You can find role assignments using Azure RBAC in the Azure portal on the left-h
 
 ![image](https://github.com/user-attachments/assets/e68ce24a-2f94-444f-90fe-74f4091ca79e)
 
+In the screenshot above, you can see that this subscription has 92 role assignments. There are 4 owners, 10 cntributers, 8 readers, and 3 billing readers. The other roles have been hidden for brevity. 
+
 If you click on the **Roles** tab directly next to Role Assignments, you can see a list of the built-in and custom roles. 
 
 These built-in roles are for specific Azure services, like **Storage Account Contributor** or **Virtual Machine Contributor**. These roles are more specific to the type of resource you're managing. For a specific list of built-in roles, check out the [Azure documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles).
